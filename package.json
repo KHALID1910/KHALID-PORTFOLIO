@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://KHALID1910.github.io/KHALID-PORTFOLIO",
+  "homepage": "http://khalid1910.github.io/KHALID-PORTFOLIO",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://KHALID1910.github.io/KHALID-PORTFOLIO'",
+    "build-gh": "parcel build --public-url 'https://khalid1910.github.io/KHALID-PORTFOLIO'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
