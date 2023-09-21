@@ -44,8 +44,7 @@ const projectList = [
   },
   {
     title: "VOICE AUTHENTICATION",
-    description:
-      "IN THIS PROJECT I USE THE PYTHON FOR DEVELOPING THE VOICE AUTHENTICATION.",
+    description: "IN THIS PROJECT I USE THE PYTHON FOR DEVELOPING THE VOICE AUTHENTICATION.",
     url: "https://github.com/KHALID1910/VOICE_AUTHENTICATION",
   },
   {

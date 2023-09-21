@@ -29,7 +29,7 @@ const siteProps = {
   email: "mansoorikhalid033@gmail.com",
   gitHub: "https://github.com/KHALID1910",
   instagram: "https://www.instagram.com/itz_khalid_sallu.143/",
-  linkedIn: "https://www.linkedin.com/in/mohd-khalid-mansoori-a216a922b/"
+  linkedIn: "https://www.linkedin.com/in/mohd-khalid-mansoori-a216a922b/",
 };
 
 const primaryColor = "#4E567E";
